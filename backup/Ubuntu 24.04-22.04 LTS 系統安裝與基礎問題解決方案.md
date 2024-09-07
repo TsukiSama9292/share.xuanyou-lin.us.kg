@@ -21,3 +21,11 @@
 3. [常見的套件管理介紹](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/all/package_management.md)
 ### 遊戲篇
 1. [Steam 遊戲與錯誤](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/all/steam_game_error_or_black_screen.md)
+
+## 24.04 專屬項目
+### 軟體篇
+1. [Unity Hub 無法運行](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/24.04/unity_hub_cannot_run.md)
+3. [缺失 Library](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/24.04/missing_library.md)
+
+## 工具類
+1. [下載YT影片或音檔(支援各系統)](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/tool/download_yt_video_or_audio.ipynb)
