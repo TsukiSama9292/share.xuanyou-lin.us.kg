@@ -1,4 +1,4 @@
-# [動態更新儲存庫](https://github.com/TsukiSama9292/Ubuntu-Guide)
+# [Ubuntu-Guide 儲存庫連結(動態更新)](https://github.com/TsukiSama9292/Ubuntu-Guide)
 ![# Ubuntu-Guide](https://raw.githubusercontent.com/TsukiSama9292/Ubuntu-Guide/main/assets/logo.png)
 
 [![GitHub Repo stars](https://img.shields.io/github/stars/TsukiSama9292/Ubuntu-Guide?style=social)](https://github.com/TsukiSama9292/Ubuntu-Guide/stargazers)
