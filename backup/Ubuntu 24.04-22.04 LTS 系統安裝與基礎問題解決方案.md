@@ -19,6 +19,7 @@
 1. [安裝 Chrome 瀏覽器](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/all/install_chrome.md)
 2. [啟動 Windows 軟體方法](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/all/launch_windows_software.md)
 3. [常見的套件管理介紹](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/all/package_management.md)
+4. [麥克風噪音抑制](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/all/microphone_noise_suppression.md)
 ### 遊戲篇
 1. [Steam 遊戲與錯誤](https://github.com/TsukiSama9292/Ubuntu-Guide/tree/main/zh_tw/all/steam_game_error_or_black_screen.md)
 
